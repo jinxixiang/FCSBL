@@ -5,15 +5,16 @@
 
 Bioimpedance Imaging Problem
 ----------
-For a scale 
+<img src="bioimpedance.png" width="700px"/>
 
-Motivation
-----------
-Use Multiple Measurement Model (MMV).
+**Two motivations:**
+* _Reconstruct multiple measurements simultaneously;_
+* _Enhance the reconstructed quality especially when SNR is low._
+
 
 Proposed Approach
 ---------
-Spaese Bayesian Learning for MMV.
+Multiple Measurement Model (MMV) + Spaese Bayesian Learning (SBL).
 
 
 FC-SBL code
