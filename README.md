@@ -7,6 +7,8 @@ Bioimpedance Imaging Problem
 ----------
 <img src="bioimpedance.png" width="700px"/>
 
+**Note:** This figure is a typical conductivity spectrum of biological tissue. However, monotonically increasing conductivity is not a prerequisite for applying FCSBL.
+
 **Two motivations:**
 * _Reconstruct multiple measurements simultaneously;_
 * _Enhance the reconstructed quality especially when SNR is low._
