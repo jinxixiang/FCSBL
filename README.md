@@ -27,7 +27,7 @@ Multiple Measurement Model (MMV) + Sparse Bayesian Learning (SBL).
 FC-SBL code
 ---------
 * **Total variation**. In the paper,  DOI: 10.1109/TMI.2009.2022540 is used and the code is available from [EIDORS](http://eidors3d.sourceforge.net/). Here, a more flexible TV method (10.1109/TIP.2009.2028250) is provided.
-* **SA-SBL** (DOI: 10.1109/TMI.2018.2816739). I don't have the copyright to make the original SASBL code public. But similar results are demonstrated by feeding in FCSBL with each measurement separately.
+* **SA-SBL** (DOI: 10.1109/TMI.2018.2816739). I don't have the copyright to make the original SASBL code public. 
 * **FCSBL** (proposed)
 
 Running Platform
